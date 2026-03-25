@@ -1,0 +1,31 @@
+{
+    "hasCriticalIssue": false,
+    "update": {
+        "android": {
+            "latestBuildNumber": 150,
+            "minSupportedBuildNumber": 145
+        },
+        "ios": {
+            "latestBuildNumber": 151,
+            "minSupportedBuildNumber": 148
+        },
+        "locales": {
+            "vi": {
+                "title": "Cập nhật ứng dụng",
+                "message": "Phiên bản hiện tại không còn được hỗ trợ. Vui lòng cập nhật để tiếp tục sử dụng.",
+                "releaseNotes": [
+                    "Cải thiện hiệu năng",
+                    "Sửa lỗi đăng nhập"
+                ]
+            },
+            "en": {
+                "title": "Update App",
+                "message": "Your current version is no longer supported. Please update to continue using the app.",
+                "releaseNotes": [
+                    "Performance improvements",
+                    "Bug fixes"
+                ]
+            }
+        }
+    }
+}
