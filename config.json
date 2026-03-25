@@ -3,7 +3,7 @@
     "update": {
         "android": {
             "latestBuildNumber": 22,
-            "minSupportedBuildNumber": 1
+            "minSupportedBuildNumber": 2
         },
         "ios": {
             "latestBuildNumber": 22,
