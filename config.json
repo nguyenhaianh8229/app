@@ -1,31 +1,28 @@
 {
-    "hasCriticalIssue": false,
-    "update": {
-        "android": {
-            "latestBuildNumber": 22,
-            "minSupportedBuildNumber": 2
-        },
-        "ios": {
-            "latestBuildNumber": 22,
-            "minSupportedBuildNumber": 1
-        },
-        "locales": {
-            "vi": {
-                "title": "Cập nhật ứng dụng",
-                "message": "Phiên bản hiện tại không còn được hỗ trợ. Vui lòng cập nhật để tiếp tục sử dụng.",
-                "releaseNotes": [
-                    "Cải thiện hiệu năng",
-                    "Sửa lỗi đăng nhập"
-                ]
-            },
-            "en": {
-                "title": "Update App",
-                "message": "Your current version is no longer supported. Please update to continue using the app.",
-                "releaseNotes": [
-                    "Performance improvements",
-                    "Bug fixes"
-                ]
-            }
-        }
+  "hasCriticalIssue": false,
+  "update": {
+    "android": {
+      "latestBuildNumber": 23,
+      "minSupportedBuildNumber": 23
+    },
+    "ios": {
+      "latestBuildNumber": 23,
+      "minSupportedBuildNumber": 23
+    },
+    "locales": {
+      "vi": {
+        "title": "Ứng dụng đã được nâng cấp để mang đến trải nghiệm tốt hơn. Vui lòng cập nhật để tận hưởng những cải tiến mới nhất",
+        "releaseNotes": [
+          "Cali Life là ứng dụng duy nhất dành riêng cho hội viên California, giúp quản lý thẻ, đặt lớp và sử dụng dịch vụ tại các câu lạc bộ."
+        ]
+      },
+      "en": {
+        "title": "Update App",
+        "message": "We’ve upgraded the app to bring you a better experience. Please update now to enjoy the latest improvements.",
+        "releaseNotes": [
+          "Cali Life is the official application for California members, allowing you to manage your membership, book classes and access club services."
+        ]
+      }
     }
+  }
 }
