@@ -11,7 +11,8 @@
     },
     "locales": {
       "vi": {
-        "title": "Ứng dụng đã được nâng cấp để mang đến trải nghiệm tốt hơn. Vui lòng cập nhật để tận hưởng những cải tiến mới nhất",
+        "title": "Cập nhật ứng dụng",
+        "message": "Ứng dụng đã được nâng cấp để mang đến trải nghiệm tốt hơn. Vui lòng cập nhật để tận hưởng những cải tiến mới nhất",
         "releaseNotes": [
           "Cali Life là ứng dụng duy nhất dành riêng cho hội viên California, giúp quản lý thẻ, đặt lớp và sử dụng dịch vụ tại các câu lạc bộ."
         ]
