@@ -2,12 +2,12 @@
   "hasCriticalIssue": false,
   "update": {
     "android": {
-      "latestBuildNumber": 23,
-      "minSupportedBuildNumber": 23
+      "latestBuildNumber": 24,
+      "minSupportedBuildNumber": 24
     },
     "ios": {
-      "latestBuildNumber": 23,
-      "minSupportedBuildNumber": 23
+      "latestBuildNumber": 24,
+      "minSupportedBuildNumber": 24
     },
     "locales": {
       "vi": {
